@@ -6,4 +6,4 @@ WORK IN PROGRESS
 
 ### How to test
 
-Navigate to the dockerenv folder and follow the instructions outlined in run-getting-started-with-go.md.
+Navigate to the dockerenv folder and follow the instructions in README.

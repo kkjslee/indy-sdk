@@ -10,8 +10,8 @@
 
 `docker-compose up`
 
-The command above will create `getting-started` and `indy_pool` (collection of the validator nodes) images if they hasn't been done yet, create containers and run them.  
-The validators run by default on IP `10.0.0.2`, this can be changed by changing `pool_ip` in the `docker-compose` file.  
+The command above will create `getting-started` and `indy_pool` (collection of the validator nodes) images if they hasn't been done yet, create containers and run them.
+The validators run by default on IP `10.0.0.2`, this can be changed by changing `pool_ip` in the `docker-compose` file.
 
 Attach to the docker container:
 
